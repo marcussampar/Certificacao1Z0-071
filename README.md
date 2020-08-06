@@ -8,7 +8,7 @@
 ######################################################<br/>
 Conteúdo previsto na prova de certificação (https://education.oracle.com/pt_BR/oracle-database-sql/pexam_1Z0-071)<br/>
 <br/>
-1)Relational Database concepts<br/>
+1) Relational Database concepts<br/>
 1.1 - Explaining the theoretical and physical aspects of a relational database<br/>
 1.2 - Relating clauses in SQL Select Statement to Components of an ERD<br/>
 1.3 - Explaining the relationship between a database and SQL<br/>
