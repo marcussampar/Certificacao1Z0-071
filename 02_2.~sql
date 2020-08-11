@@ -62,7 +62,8 @@ select * from funcionario where nome like '%M\_%' escape '\';--Onde tiver o cara
 select * from funcionario where idade is null;
 select * from funcionario where idade = null;-- nao retorna nada
 select * from funcionario where nome is null;
-select * from funcionario where nome is not null;--Retorna inclusive ' ', mas não '';
+
+
 
 
 
