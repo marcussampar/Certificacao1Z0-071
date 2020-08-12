@@ -17,7 +17,7 @@ Conteúdo previsto na prova de certificação (https://education.oracle.com/pt_B
 2.2 - Limiting Rows Returned in a SQL Statement<br/>
 2.3 - Using Substitution Variables<br/>
 2.4 - Using the DEFINE and VERIFY commands<br/>
-2.5 -  Sorting Data<br/>
+2.5 - Sorting Data<br/>
 3) Using Conversion Functions and Conditional Expressions<br/>
 3.1 - Applying the NVL, NULLIF, and COALESCE functions to data<br/>
 3.2 - Understanding implicit and explicit data type conversion<br/>
